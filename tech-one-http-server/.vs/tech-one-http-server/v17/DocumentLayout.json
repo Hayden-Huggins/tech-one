@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D22B82-F3E9-4468-858D-B8173C3CBFFE}|tech-one-http-server.csproj|c:\\users\\hayde\\documents\\dev projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\currencytotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D22B82-F3E9-4468-858D-B8173C3CBFFE}|tech-one-http-server.csproj|solutionrelative:currencytotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D22B82-F3E9-4468-858D-B8173C3CBFFE}|tech-one-http-server.csproj|c:\\users\\hayde\\documents\\dev projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D22B82-F3E9-4468-858D-B8173C3CBFFE}|tech-one-http-server.csproj|solutionrelative:httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D22B82-F3E9-4468-858D-B8173C3CBFFE}|tech-one-http-server.csproj|c:\\users\\hayde\\documents\\dev projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D22B82-F3E9-4468-858D-B8173C3CBFFE}|tech-one-http-server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyToText.cs",
+              "DocumentMoniker": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\CurrencyToText.cs",
+              "RelativeDocumentMoniker": "CurrencyToText.cs",
+              "ToolTip": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\CurrencyToText.cs",
+              "RelativeToolTip": "CurrencyToText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:09:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\HttpServer.cs",
+              "RelativeDocumentMoniker": "HttpServer.cs",
+              "ToolTip": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\HttpServer.cs",
+              "RelativeToolTip": "HttpServer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:45:54.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hayde\\Documents\\Dev Projects\\tech-one\\tech-one-test-hhtp-server\\tech-one-http-server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:44:57.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
